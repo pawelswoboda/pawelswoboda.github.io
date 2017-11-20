@@ -14,7 +14,7 @@ E-Mail: paul.swoboda (at) ist.ac.at
 
 Paul Swoboda
 
-(Kolmogorov group)[www.ist.ac.at/~vnk]
+[Kolmogorov group](www.ist.ac.at/~vnk)
 Institute of Science and Technology Austria
 Am Campus 1
 3400 Klosterneuburg, Austria
