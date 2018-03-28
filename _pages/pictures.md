@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Pictures"
+title: "Combinatorial Computer Vision - Pictures"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "Combinatorial Computer Vision -- Pictures"
 permalink: /pictures/
 ---
 

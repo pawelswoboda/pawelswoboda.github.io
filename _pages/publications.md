@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Combinatorial Computer Vision - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Combinatorial Computer Vision -- Publications."
 sitemap: false
 permalink: /publications/
 ---
