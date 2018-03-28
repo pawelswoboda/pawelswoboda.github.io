@@ -55,7 +55,7 @@
   link:
     url: https://arxiv.org/pdf/1601.02088.pdf
     display:  Journal of Mathematical Imaging and Vision, 2016
-  highlight: 1
+  highlight: 2
   news2: 
 
 - title: "Partial Optimality by Pruning for MAP-Inference with General Graphical Models"
@@ -65,7 +65,7 @@
   link:
     url: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7297868
     display:  IEEE Transactions on Pattern Analysis and Machine Intelligence, 2016
-  highlight: 1
+  highlight: 2
   news2: 
 
 - title: "Probabilistic correlation clustering and image partitioning using perturbed multicuts"
@@ -75,7 +75,7 @@
   link:
     url: https://link.springer.com/content/pdf/10.1007%2F978-3-319-18461-6_19.pdf
     display:  SSVM 2015
-  highlight: 1
+  highlight: 2
   news2: 
 
 - title: "Maximum Persistency via Iterative Relaxed Inference with Graphical Models"
@@ -95,7 +95,7 @@
   link:
     url: https://epubs.siam.org/doi/pdf/10.1137/120897535
     display:  SIAM Journal on Imaging Sciences 2013
-  highlight: 1
+  highlight: 2
   news2: 
 
 - title: "Variational image segmentation and cosegmentation with the wasserstein distance"
@@ -105,7 +105,7 @@
   link:
     url: https://link.springer.com/content/pdf/10.1007%2F978-3-642-40395-8_24.pdf
     display:  EMMCVPR 2013
-  highlight: 1
+  highlight: 2
   news2: 
 
 - title: "Partial optimality via iterative pruning for the Potts model"
@@ -115,7 +115,7 @@
   link:
     url: https://link.springer.com/content/pdf/10.1007%2F978-3-642-38267-3_40.pdf
     display:  SSVM 2013
-  highlight: 1
+  highlight: 2
   news2: 
 
 - title: "Global MAP-optimality by shrinking the combinatorial search area with convex relaxation"
@@ -125,5 +125,5 @@
   link:
     url: http://papers.nips.cc/paper/5159-global-map-optimality-by-shrinking-the-combinatorial-search-area-with-convex-relaxation.pdf
     display:  NIPS 2013
-  highlight: 1
+  highlight: 2
   news2: 
