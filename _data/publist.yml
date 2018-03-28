@@ -1,12 +1,12 @@
 - title: "Exact MAP-inference by Confining Combinatorial Search with LP Relaxation"
   image: SmartPub.png
-  description: We consider a new relaxation of the MAP-inference problem for MRFs that decomposes the problem into two parts: an easy LP-tight part and a difficult one. These parts are used by efficient message passing and exact ILP solvers respectively, resulting in reduced overall runtime.
+  description: "We consider a new relaxation of the MAP-inference problem for MRFs that decomposes the problem into two parts: an easy LP-tight part and a difficult one. These parts are used by efficient message passing and exact ILP solvers respectively, resulting in reduced overall runtime."
   authors: Stefan Haller, Paul Swoboda, Bogdan Savchynskyy
   link:
     url: https://hci.iwr.uni-heidelberg.de/vislearn/HTML/people/bogdan/publications/papers/Dense-CombiLP-Haller-AAAI2017.pdf
     display:  AAAI 2018
   highlight: 1
-  news2: 
+  news2:
 
 - title: "A Dual Ascent Framework for Lagrangean Decomposition of Combinatorial Problems"
   image: SmartPub.png
@@ -16,7 +16,7 @@
     url: http://openaccess.thecvf.com/content_cvpr_2017/papers/Swoboda_A_Dual_Ascent_CVPR_2017_paper.pdf
     display:  CVPR 2017
   highlight: 1
-  news2: 
+  news2:
 
 - title: "A study of Lagrangean decompositions and dual ascent solvers for graph matching"
   image: SmartPub.png
@@ -120,11 +120,10 @@
 
 - title: "Global MAP-optimality by shrinking the combinatorial search area with convex relaxation"
   image: SmartPub.png
-  description: We consider a new relaxation of the MAP-inference problem for MRFs that decomposes the problem into two parts: an easy LP-tight part and a difficult one. These parts are used by efficient message passing and exact ILP solvers respectively, resulting in reduced overall runtime.
+  description: "We consider a new relaxation of the MAP-inference problem for MRFs that decomposes the problem into two parts: an easy LP-tight part and a difficult one. These parts are used by efficient message passing and exact ILP solvers respectively, resulting in reduced overall runtime."
   authors: Bogdan Savchynskyy, Jörg Hendrik Kappes, Paul Swoboda, Christoph Schnörr
   link:
     url: http://papers.nips.cc/paper/5159-global-map-optimality-by-shrinking-the-combinatorial-search-area-with-convex-relaxation.pdf
     display:  NIPS 2013
   highlight: 1
   news2: 
-
