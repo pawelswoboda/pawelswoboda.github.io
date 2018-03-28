@@ -1,3 +1,13 @@
+- title: "Exact MAP-inference by Confining Combinatorial Search with LP Relaxation"
+  image: SmartPub.png
+  description: We consider a new relaxation of the MAP-inference problem for MRFs that decomposes the problem into two parts: an easy LP-tight part and a difficult one. These parts are used by efficient message passing and exact ILP solvers respectively, resulting in reduced overall runtime.
+  authors: Stefan Haller, Paul Swoboda, Bogdan Savchynskyy
+  link:
+    url: https://hci.iwr.uni-heidelberg.de/vislearn/HTML/people/bogdan/publications/papers/Dense-CombiLP-Haller-AAAI2017.pdf
+    display:  AAAI 2018
+  highlight: 1
+  news2: 
+
 - title: "A Dual Ascent Framework for Lagrangean Decomposition of Combinatorial Problems"
   image: SmartPub.png
   description: We introduce a general framework for optimizing Lagrangean decompositions of combinatorial problems based on dual block coordinate ascent.
@@ -5,6 +15,116 @@
   link:
     url: http://openaccess.thecvf.com/content_cvpr_2017/papers/Swoboda_A_Dual_Ascent_CVPR_2017_paper.pdf
     display:  CVPR 2017
+  highlight: 1
+  news2: 
+
+- title: "A study of Lagrangean decompositions and dual ascent solvers for graph matching"
+  image: SmartPub.png
+  description: We propose a family of dual block coordinate ascent algorithms for the graph matching problem that surpass state of the art solvers.
+  authors: Paul Swoboda, Carsten Rother, Hassan Abu Alhaija, Dagmar Kainmüller, Bogdan Savchynskyy
+  link:
+    url: http://openaccess.thecvf.com/content_cvpr_2017/papers/Swoboda_A_Study_of_CVPR_2017_paper.pdf
+    display:  CVPR 2017
+  highlight: 1
+  news2: 
+
+- title: "A Message Passing Algorithm for the Minimum Cost Multicut Problem"
+  image: SmartPub.png
+  description: We prpose a new message passing (a.k.a. dual block coordinate ascent) for the multicut problem (a.k.a. correlation clustering) that outperforms existing LP-based solvers.
+  authors: Paul Swoboda, Bjoern Andres
+  link:
+    url: http://openaccess.thecvf.com/content_cvpr_2017/papers/Swoboda_A_Message_Passing_CVPR_2017_paper.pdf
+    display:  CVPR 2017
+  highlight: 1
+  news2: 
+
+- title: "A Novel Convex Relaxation for Non-binary Discrete Tomography"
+  image: SmartPub.png
+  description: We propose a new and tighter relaxation for the multilabel discrete tomography problem and algorithms for solving it.
+  authors: Jan Kuske, Paul Swoboda, Stefania Petra
+  link:
+    url: https://arxiv.org/pdf/1703.03769.pdf
+    display:  SSVM 2017
+  highlight: 1
+  news2: 
+
+- title: "Multicuts and Perturb & MAP for Probabilistic Graph Clustering"
+  image: SmartPub.png
+  description: We present a probabilistic graphical model formulation for the graph clustering problem. This enables  to  locally  represent  uncertainty  of  image  partitions by approximate marginal distributions in a mathematically substantiated way.
+  authors: Jörg Hendrik Kappes, Paul Swoboda, Bogdan Savchynskyy, Tamir Hazan, Christoph Schnörr
+  link:
+    url: https://arxiv.org/pdf/1601.02088.pdf
+    display:  Journal of Mathematical Imaging and Vision, 2016
+  highlight: 1
+  news2: 
+
+- title: "Partial Optimality by Pruning for MAP-Inference with General Graphical Models"
+  image: SmartPub.png
+  description: We propose a new approach to partial optimality in graphical models that relies on a new persistency criterion. A maximal subset of variables satisfying this persistency criterion can be found with a new iterative algorithm that requiring access only to standard MAP-inference solvers.
+  authors: Paul Swoboda, Alexander Shekhovtsov, Jörg Hendrik Kappes, Christoph Schnörr, Bogdan Savchynskyy
+  link:
+    url: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7297868
+    display:  IEEE Transactions on Pattern Analysis and Machine Intelligence, 2016
+  highlight: 1
+  news2: 
+
+- title: "Probabilistic correlation clustering and image partitioning using perturbed multicuts"
+  image: SmartPub.png
+  description: We present a probabilistic graphical model formulation for the graph clustering problem. This enables  to  locally  represent  uncertainty  of  image  partitions by approximate marginal distributions in a mathematically substantiated way.
+  authors: Jörg Hendrik Kappes, Paul Swoboda, Bogdan Savchynskyy, Tamir Hazan, Christoph Schnörr
+  link:
+    url: https://link.springer.com/content/pdf/10.1007%2F978-3-319-18461-6_19.pdf
+    display:  SSVM 2015
+  highlight: 1
+  news2: 
+
+- title: "Maximum Persistency via Iterative Relaxed Inference with Graphical Models"
+  image: SmartPub.png
+  description: We propose a new approach to partial optimality that surpasses previous methods both in terms of attained number of persistent variables and runtime.
+  authors: Alexander Shekhovtsov, Paul Swoboda, Bogdan Savchynskyy
+  link:
+    url: https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Shekhovtsov_Maximum_Persistency_via_2015_CVPR_paper.pdf
+    display:  CVPR 2015
+  highlight: 1
+  news2: 
+
+- title: "Convex variational image restoration with histogram priors"
+  image: SmartPub.png
+  description: We introduce a histogram prior in a variational setting that allows to measure distance to prespecified global statistical information. Corresponding algorithms for solving an associated convex relaxation are also given.
+  authors: Paul Swoboda, Christoph Schnörr
+  link:
+    url: https://epubs.siam.org/doi/pdf/10.1137/120897535
+    display:  SIAM Journal on Imaging Sciences 2013
+  highlight: 1
+  news2: 
+
+- title: "Variational image segmentation and cosegmentation with the wasserstein distance"
+  image: SmartPub.png
+  description: We propose a new global term based on the Wasserstein distance for measuring histogram differences between (i) given histograms or (ii) histograms between images. Applications include (i) segmentation and (ii) cosegmentation.
+  authors: Paul Swoboda, Christoph Schnörr
+  link:
+    url: https://link.springer.com/content/pdf/10.1007%2F978-3-642-40395-8_24.pdf
+    display:  EMMCVPR 2013
+  highlight: 1
+  news2: 
+
+- title: "Partial optimality via iterative pruning for the Potts model"
+  image: SmartPub.png
+  description: We propose a new approach to partial optimality for the Potts model that relies on a new persistency criterion. We also propose a new algorithm for finding a maximal subset of variables satisfying this persistency criterion in polynomial time.
+  authors: Paul Swoboda, Bogdan Savchynskyy, Jörg Kappes, Christoph Schnörr
+  link:
+    url: https://link.springer.com/content/pdf/10.1007%2F978-3-642-38267-3_40.pdf
+    display:  SSVM 2013
+  highlight: 1
+  news2: 
+
+- title: "Global MAP-optimality by shrinking the combinatorial search area with convex relaxation"
+  image: SmartPub.png
+  description: We consider a new relaxation of the MAP-inference problem for MRFs that decomposes the problem into two parts: an easy LP-tight part and a difficult one. These parts are used by efficient message passing and exact ILP solvers respectively, resulting in reduced overall runtime.
+  authors: Bogdan Savchynskyy, Jörg Hendrik Kappes, Paul Swoboda, Christoph Schnörr
+  link:
+    url: http://papers.nips.cc/paper/5159-global-map-optimality-by-shrinking-the-combinatorial-search-area-with-convex-relaxation.pdf
+    display:  NIPS 2013
   highlight: 1
   news2: 
 
