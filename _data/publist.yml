@@ -1,0 +1,10 @@
+- title: "A Dual Ascent Framework for Lagrangean Decomposition of Combinatorial Problems"
+  image: SmartPub.png
+  description: We introduce a general framework for optimizing Lagrangean decompositions of combinatorial problems based on dual block coordinate ascent.
+  authors: Paul Swoboda, Jan Kuske and Bogdan Savchynskyy
+  link:
+    url: http://openaccess.thecvf.com/content_cvpr_2017/papers/Swoboda_A_Dual_Ascent_CVPR_2017_paper.pdf
+    display:  CVPR 2017
+  highlight: 1
+  news2: 
+
