@@ -1,4 +1,4 @@
-# Allan Lab Website
+# Combinatorial Computer Vision group website
 
 This is the website of the Combinatorial Computer Vision group at the Max Planck Institute for Informatics.
 
