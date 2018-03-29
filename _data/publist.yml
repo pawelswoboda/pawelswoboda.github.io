@@ -30,7 +30,7 @@
 
 - title: "A Message Passing Algorithm for the Minimum Cost Multicut Problem"
   image: multicut.svg
-  description: We prpose a new message passing (a.k.a. dual block coordinate ascent) for the multicut problem (a.k.a. correlation clustering) that outperforms existing LP-based solvers.
+  description: We propose a new message passing (a.k.a. dual block coordinate ascent) for the multicut problem (a.k.a. correlation clustering) that outperforms existing LP-based solvers and improves solutions of primal heuristics.
   authors: Paul Swoboda, Bjoern Andres
   link:
     url: http://openaccess.thecvf.com/content_cvpr_2017/papers/Swoboda_A_Message_Passing_CVPR_2017_paper.pdf
@@ -39,7 +39,7 @@
   news2: 
 
 - title: "A Novel Convex Relaxation for Non-binary Discrete Tomography"
-  image: SmartPub.png
+  image: tux_head.svg
   description: We propose a new and tighter relaxation for the multilabel discrete tomography problem and algorithms for solving it.
   authors: Jan Kuske, Paul Swoboda, Stefania Petra
   link:
