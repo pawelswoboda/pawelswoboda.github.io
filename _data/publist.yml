@@ -9,7 +9,7 @@
   news2:
 
 - title: "A Dual Ascent Framework for Lagrangean Decomposition of Combinatorial Problems"
-  image: SmartPub.png
+  image: FactorGraph.png
   description: We introduce a general framework for optimizing Lagrangean decompositions of combinatorial problems based on dual block coordinate ascent.
   authors: Paul Swoboda, Jan Kuske and Bogdan Savchynskyy
   link:
@@ -19,7 +19,7 @@
   news2:
 
 - title: "A study of Lagrangean decompositions and dual ascent solvers for graph matching"
-  image: SmartPub.png
+  image: house_graph_matching.jpg
   description: We propose a family of dual block coordinate ascent algorithms for the graph matching problem that surpass state of the art solvers.
   authors: Paul Swoboda, Carsten Rother, Hassan Abu Alhaija, Dagmar Kainmüller, Bogdan Savchynskyy
   link:
@@ -29,7 +29,7 @@
   news2: 
 
 - title: "A Message Passing Algorithm for the Minimum Cost Multicut Problem"
-  image: SmartPub.png
+  image: multicut.svg
   description: We prpose a new message passing (a.k.a. dual block coordinate ascent) for the multicut problem (a.k.a. correlation clustering) that outperforms existing LP-based solvers.
   authors: Paul Swoboda, Bjoern Andres
   link:
