@@ -79,7 +79,7 @@
   news2: 
 
 - title: "Maximum Persistency via Iterative Relaxed Inference with Graphical Models"
-  image: SmartPub.png
+  image: mrf_persistency.png
   description: We propose a new approach to partial optimality that surpasses previous methods both in terms of attained number of persistent variables and runtime.
   authors: Alexander Shekhovtsov, Paul Swoboda, Bogdan Savchynskyy
   link:
