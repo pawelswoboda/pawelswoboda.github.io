@@ -22,12 +22,12 @@ by Kainmueller et al, [corresponding publication](http://dx.doi.org/10.1007/978-
 
 # Multicut
 
-### [Solver](https://github.com/pawelswoboda/LP_MP-Cut).
+### [Solver](https://github.com/pawelswoboda/LP_MP-Cut)
 
 
 # Discrete tomography
 
-### [Solver](https://github.com/pawelswoboda/LP_MP-Discrete-tomography).
+### [Solver](https://github.com/pawelswoboda/LP_MP-Discrete-tomography)
 
 ### Datasets
 
