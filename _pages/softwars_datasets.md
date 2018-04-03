@@ -10,9 +10,7 @@ For associated publications see [here](../publications).
 
 # Graph matching
 
-### Solver
-
-[Dual block coordinate ascent and subgradient based solvers](https://github.com/pawelswoboda/LP_MP-QAP).
+### [Solver](https://github.com/pawelswoboda/LP_MP-QAP)
 
 ### Datasets
 
@@ -24,16 +22,12 @@ by Kainmueller et al, [corresponding publication](http://dx.doi.org/10.1007/978-
 
 # Multicut
 
-### Solver
-
-[Dual block coordinate ascent based solver and violated inequality separation routines](https://github.com/pawelswoboda/LP_MP-Cut).
+### [Solver](https://github.com/pawelswoboda/LP_MP-Cut).
 
 
 # Discrete tomography
 
-### Solver
-
-[Subgradient based solvers](https://github.com/pawelswoboda/LP_MP-Discrete-tomography).
+### [Solver](https://github.com/pawelswoboda/LP_MP-Discrete-tomography).
 
 ### Datasets
 
