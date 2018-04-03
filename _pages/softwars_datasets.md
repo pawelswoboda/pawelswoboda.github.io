@@ -19,10 +19,14 @@ by Kainmueller et al, [corresponding publication](http://dx.doi.org/10.1007/978-
 
 * [GraphFlow – 6D Large Displacement Scene Flow via Graph Matching](https://datarep.app.ist.ac.at/id/eprint/82) by Alhaija et al, [corresponding publication](https://link.springer.com/chapter/10.1007/978-3-319-24947-6_23).
 
+![]({{ site.url }}{{ site.baseurl }}/pictures/house_graph_matching.jpg){: style="width: 300px; float: right; border: 10px"}
+
 
 # Multicut
 
 ### [Solver](https://github.com/pawelswoboda/LP_MP-Cut)
+
+![]({{ site.url }}{{ site.baseurl }}/pictures/multicut.svg){: style="width: 300px; float: right; border: 10px"}
 
 
 # Discrete tomography
@@ -34,3 +38,4 @@ by Kainmueller et al, [corresponding publication](http://dx.doi.org/10.1007/978-
 [synthetic multi-label problems](https://datarep.app.ist.ac.at/46/1/discrete_tomography_synthetic.zip)
 by Kuske et al.
 
+![]({{ site.url }}{{ site.baseurl }}/pictures/tux_head.svg){: style="width: 300px; float: right; border: 10px"}
