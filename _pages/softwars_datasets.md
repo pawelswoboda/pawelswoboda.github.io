@@ -10,6 +10,8 @@ For associated publications see [here](../publications).
 
 # Graph matching
 
+<img align="right" height="200" src="{{ site.url }}{{ site.baseurl }}/pictures/house_graph_matching.jpg)">
+
 ### [Solver](https://github.com/pawelswoboda/LP_MP-QAP)
 
 ### Datasets
@@ -18,8 +20,6 @@ For associated publications see [here](../publications).
 by Kainmueller et al, [corresponding publication](http://dx.doi.org/10.1007/978-3-319-10404-1_11).
 
 * [GraphFlow – 6D Large Displacement Scene Flow via Graph Matching](https://datarep.app.ist.ac.at/id/eprint/82) by Alhaija et al, [corresponding publication](https://link.springer.com/chapter/10.1007/978-3-319-24947-6_23).
-
-![]({{ site.url }}{{ site.baseurl }}/pictures/house_graph_matching.jpg){: style="width: 300px; float: right; border: 10px"}
 
 
 # Multicut
