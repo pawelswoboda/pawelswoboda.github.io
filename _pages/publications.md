@@ -12,6 +12,7 @@ permalink: /publications/
 ## Highlights
 
 Please also see [Google Scholar](https://scholar.google.com/citations?user=hSQ7TbMAAAAJ).
+For associated solvers and datasets see [here](software_datasets).
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
