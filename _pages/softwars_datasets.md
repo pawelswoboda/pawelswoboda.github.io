@@ -9,7 +9,7 @@ permalink: /software_datasets/
 For associated publications see [here](../publications).
 
 # Graph matching
-![]({{ site.url }}{{ site.baseurl }}/pictures/house_graph_matching.jpg){: align="right" height="300px" border="10px"}
+![]({{ site.url }}{{ site.baseurl }}/pictures/house_graph_matching.jpg){: align="right" width="200px" border="10px"}
 
 ### [Solver](https://github.com/pawelswoboda/LP_MP-QAP)
 
@@ -23,14 +23,14 @@ by Kainmueller et al, [corresponding publication](http://dx.doi.org/10.1007/978-
 
 
 # Multicut
-![]({{ site.url }}{{ site.baseurl }}/pictures/multicut.svg){: style="width: 300px; align: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/pictures/multicut.svg){: align="right" width="200px" border="10px"}
 
 ### [Solver](https://github.com/pawelswoboda/LP_MP-Cut)
 
 
 
 # Discrete tomography
-![]({{ site.url }}{{ site.baseurl }}/pictures/tux_head.svg){: style="width: 300px; align: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/pictures/tux_head.svg){: align="right" width="200px" border="10px"}
 
 ### [Solver](https://github.com/pawelswoboda/LP_MP-Discrete-tomography)
 
