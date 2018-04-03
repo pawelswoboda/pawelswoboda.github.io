@@ -20,14 +20,14 @@ by Kainmueller et al, [corresponding publication](http://dx.doi.org/10.1007/978-
 
 * [GraphFlow – 6D Large Displacement Scene Flow via Graph Matching](https://datarep.app.ist.ac.at/id/eprint/82) by Alhaija et al, [corresponding publication](https://link.springer.com/chapter/10.1007/978-3-319-24947-6_23).
 
-...
+---
 
 # Multicut
 ![]({{ site.url }}{{ site.baseurl }}/pictures/multicut.svg){: align="right" width="200px" border="10px"}
 
 ### [Solver](https://github.com/pawelswoboda/LP_MP-Cut)
 
-...
+---
 
 # Discrete tomography
 ![]({{ site.url }}{{ site.baseurl }}/pictures/tux_head.svg){: align="right" width="200px" border="10px"}
