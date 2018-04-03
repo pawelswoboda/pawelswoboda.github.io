@@ -9,7 +9,7 @@ permalink: /software_datasets/
 For associated publications see [here](../publications).
 
 # Graph matching
-![]({{ site.url }}{{ site.baseurl }}/pictures/house_graph_matching.jpg){: align=right, style="width: 300px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/pictures/house_graph_matching.jpg){: align="right" height="300px" border="10px"}
 
 ### [Solver](https://github.com/pawelswoboda/LP_MP-QAP)
 
