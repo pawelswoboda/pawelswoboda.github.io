@@ -1,5 +1,5 @@
 - title: "Exact MAP-inference by Confining Combinatorial Search with LP Relaxation"
-  image: SmartPub.png
+  image: mrf_combiLP_decomposition.png
   description: "We consider a new relaxation of the MAP-inference problem for MRFs that decomposes the problem into two parts: an easy LP-tight part and a difficult one. These parts are used by efficient message passing and exact ILP solvers respectively, resulting in reduced overall runtime."
   authors: Stefan Haller, Paul Swoboda, Bogdan Savchynskyy
   link:
