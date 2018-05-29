@@ -31,9 +31,9 @@ by Kainmueller et al, [corresponding publication](http://dx.doi.org/10.1007/978-
 
 ### Datasets
 
-* [multicut problems for circuit reconstruction from electron microscopy images from the CREMI challenge](discrete-cv-problems.mpi-inf.mpg.de/CREMI_multicut_nature_methods.zip) by Thorsten Beier et al, [corresponding publication](https://www.nature.com/articles/nmeth.4151)
+* [multicut problems for circuit reconstruction from electron microscopy images from the CREMI challenge](https://discrete-cv-problems.mpi-inf.mpg.de/CREMI_multicut_nature_methods.zip) by Thorsten Beier et al, [corresponding publication](https://www.nature.com/articles/nmeth.4151)
 
-* [large scale fruit fly brain segmentation problems](discrete-cv-problems.mpi-inf.mpg.de/fruit_fly_brain_segmentation_Pape.zip) by Constantin Pape et al, [corresponding publication](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w1/Pape_Solving_Large_Multicut_ICCV_2017_paper.pdf)
+* [large scale fruit fly brain segmentation problems](https://discrete-cv-problems.mpi-inf.mpg.de/fruit_fly_brain_segmentation_Pape.zip) by Constantin Pape et al, [corresponding publication](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w1/Pape_Solving_Large_Multicut_ICCV_2017_paper.pdf)
 
 ---
 
