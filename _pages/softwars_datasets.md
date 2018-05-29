@@ -20,6 +20,8 @@ by Kainmueller et al, [corresponding publication](http://dx.doi.org/10.1007/978-
 
 * [GraphFlow – 6D Large Displacement Scene Flow via Graph Matching](https://datarep.app.ist.ac.at/id/eprint/82) by Alhaija et al, [corresponding publication](https://link.springer.com/chapter/10.1007/978-3-319-24947-6_23).
 
+* [cars and motor dataset](https://discrete-cv-problems.mpi-inf.mpg.de/car_motor_graph_matching.zip) by M. Leordeanu and M. Hebert, [corresponding publication](https://ieeexplore.ieee.org/document/5206533/).
+
 ---
 
 # Multicut
@@ -28,7 +30,10 @@ by Kainmueller et al, [corresponding publication](http://dx.doi.org/10.1007/978-
 ### [Solver](https://github.com/pawelswoboda/LP_MP-Cut)
 
 ### Datasets
-[large scale fruit fly brain segmentation problems](discrete-cv-problems.mpi-inf.mpg.de/fruit_fly_brain_segmentation_Pape.zip) by Constantin Pape et al, [correspinding publication](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w1/Pape_Solving_Large_Multicut_ICCV_2017_paper.pdf)
+
+* [multicut problems for circuit reconstruction from electron microscopy images from the CREMI challenge](discrete-cv-problems.mpi-inf.mpg.de/CREMI_multicut_nature_methods.zip) by Thorsten Beier et al, [correspinding publication](https://www.nature.com/articles/nmeth.4151)
+
+* [large scale fruit fly brain segmentation problems](discrete-cv-problems.mpi-inf.mpg.de/fruit_fly_brain_segmentation_Pape.zip) by Constantin Pape et al, [correspinding publication](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w1/Pape_Solving_Large_Multicut_ICCV_2017_paper.pdf)
 
 ---
 
