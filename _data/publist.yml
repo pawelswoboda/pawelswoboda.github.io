@@ -1,3 +1,13 @@
+- title: "MAP inference via Block-Coordinate Frank-Wolfe Algorithm"
+  image: SmartPub.png
+  description: "We present a new proximal bundle method for Maximum-A-Posteriori (MAP) inference in structured energy minimization problems. The method optimizes a Lagrangean relaxation of the original energy minimization problem using a multi plane block-coordinate Frank-Wolfe method that takes advantage of the specific structure of the Lagrangean decomposition. We show empirically that our method outperforms state-of-the-art Lagrangean decomposition based algorithms on multiple challenging structured energy minimization tasks."
+  authors: Paul Swoboda, Vladimir Kolmogorov
+  link:
+    url: https://arxiv.org/pdf/1806.05049.pdf
+    display:  arXiv
+  highlight: 0
+  news2:
+
 - title: "Exact MAP-inference by Confining Combinatorial Search with LP Relaxation"
   image: mrf_combiLP_decomposition.png
   description: "We consider a new relaxation of the MAP-inference problem for MRFs that decomposes the problem into two parts: an easy LP-tight part and a difficult one. These parts are used by efficient message passing and exact ILP solvers respectively, resulting in reduced overall runtime."
