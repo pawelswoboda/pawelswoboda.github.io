@@ -25,8 +25,9 @@ PhD applicants should have:
 * Knowledge/experience in mathematical optimization.
 * Strong interest in computer vision.
 
-    How to apply
-    Include (preferably in a single pdf):
+### How to apply
+
+Include (preferably in a single pdf):
 
 *        CV
 *        Full publication list
