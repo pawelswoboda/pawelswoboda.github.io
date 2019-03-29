@@ -33,7 +33,7 @@ by Kainmueller et al, [corresponding publication](http://dx.doi.org/10.1007/978-
 
 * [C.elegans annotation dataset (worms)](https://datasets.d2.mpi-inf.mpg.de/discrete_cv_problems/worms_mgm.zip)
 
-* [Hotel/House/Synthetic](https://datasets.d2.mpi-inf.mpg.de/discrete_cv_problems/hotel_house_synthetic.zip) by Florian Bernard et al, [corresponding publication](https://arxiv.org/pdf/1711.10733.pdf).
+* [Hotel/House/Synthetic](https://datasets.d2.mpi-inf.mpg.de/discrete_cv_problems/hotel_house_synthetic_mgm.zip) by Florian Bernard et al, [corresponding publication](https://arxiv.org/pdf/1711.10733.pdf).
 
 ---
 
