@@ -11,7 +11,7 @@ For associated publications see [here](../publications).
 # Graph matching
 ![]({{ site.url }}{{ site.baseurl }}/pictures/house_graph_matching.jpg){: align="right" width="200px" border="10px"}
 
-### [Solver](https://github.com/pawelswoboda/LP_MP-QAP)
+### [Solver](https://github.com/pawelswoboda/LPMP)
 
 ### Datasets
 
@@ -24,10 +24,23 @@ by Kainmueller et al, [corresponding publication](http://dx.doi.org/10.1007/978-
 
 ---
 
+# Multi-graph matching
+![]({{ site.url }}{{ site.baseurl }}/pictures/house_graph_matching.jpg){: align="right" width="200px" border="10px"}
+
+### [Solver](https://github.com/pawelswoboda/LPMP)
+
+### Datasets
+
+* [C.elegans annotation dataset (worms)](https://datasets.d2.mpi-inf.mpg.de/discrete_cv_problems/worms_mgm.zip)
+
+* [Hotel/House/Synthetic](https://datasets.d2.mpi-inf.mpg.de/discrete_cv_problems/hotel_house_synthetic.zip) by Florian Bernard et al, [corresponding publication](https://arxiv.org/pdf/1711.10733.pdf).
+
+---
+
 # Multicut
 ![]({{ site.url }}{{ site.baseurl }}/pictures/multicut.svg){: align="right" width="200px" border="10px"}
 
-### [Solver](https://github.com/pawelswoboda/LP_MP-Cut)
+### [Solver](https://github.com/pawelswoboda/LPMP)
 
 ### Datasets
 

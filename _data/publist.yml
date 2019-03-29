@@ -1,11 +1,32 @@
+- title: "Combinatorial persistency criteria for multicut and max-cut"
+  image: triangle-criterion.png
+  description: "In combinatorial optimization, partial variable assignments are called persistent if they agree with some optimal solution. We propose persistency criteria for the multicut and max-cut problem as well as fast combinatorial routines to verify them. The criteria that we derive are based on mappings that improve feasible multicuts, respectively cuts. Our elementary criteria can be checked enumeratively. The
+more advanced ones rely on fast algorithms for upper and lower bounds for the respective cut problems and max-flow techniques for auxiliary min-cut problems. Our methods can be used as a preprocessing technique for reducing problem sizes or for computing partial optimality guarantees for solutions output by heuristic solvers. We show the efficacy of our methods on instances of both problems from computer vision, biomedical image analysis and statistical physics."
+  authors: Jan-Hendrik Lange, Bj\"orn Andres, Paul Swoboda
+  link:
+    url: 
+    display:  CVPR 2019
+  highlight: 1
+  news2:
+
+- title: "A convex relaxation for multi-graph matching"
+  image: cycle-consistency_mgm.png
+  description: "We present a convex relaxation for the multi-graph matching problem. Our formulation allows for partial pairwise matchings, guarantees cycle consistency, and our objective incorporates both linear and quadratic costs. Moreover, we also present an extension to higher-order costs. In order to solve the convex relaxation we employ a message passing algorithm that optimizes the dual problem. We experimentally compare our algorithm on established benchmark problems from computer vision, as well as on large problems from biological image analysis, the size of which exceed previously investigated multi-graph matching instances."
+  authors: Paul Swoboda, Dagmar Kainm\"uller, Ashkan Mokarian, Christian Theobalt, Florian Bernard
+  link:
+    url: 
+    display:  CVPR 2019
+  highlight: 1
+  news2:
+
 - title: "MAP inference via Block-Coordinate Frank-Wolfe Algorithm"
   image: SmartPub.png
   description: "We present a new proximal bundle method for Maximum-A-Posteriori (MAP) inference in structured energy minimization problems. The method optimizes a Lagrangean relaxation of the original energy minimization problem using a multi plane block-coordinate Frank-Wolfe method that takes advantage of the specific structure of the Lagrangean decomposition. We show empirically that our method outperforms state-of-the-art Lagrangean decomposition based algorithms on multiple challenging structured energy minimization tasks."
   authors: Paul Swoboda, Vladimir Kolmogorov
   link:
     url: https://arxiv.org/pdf/1806.05049.pdf
-    display:  arXiv
-  highlight: 0
+    display:  CVPR 2019
+  highlight: 2
   news2:
 
 - title: "Exact MAP-inference by Confining Combinatorial Search with LP Relaxation"
