@@ -11,7 +11,7 @@ For associated publications see [here](../publications).
 # Graph matching
 ![]({{ site.url }}{{ site.baseurl }}/pictures/house_graph_matching.jpg){: align="right" width="200px" border="10px"}
 
-### [Solver](https://github.com/pawelswoboda/LPMP)
+### [Solver](https://github.com/LPMP/LPMP)
 
 ### Datasets
 
@@ -27,7 +27,7 @@ by Kainmueller et al, [corresponding publication](http://dx.doi.org/10.1007/978-
 # Multi-graph matching
 ![]({{ site.url }}{{ site.baseurl }}/pictures/house_graph_matching.jpg){: align="right" width="200px" border="10px"}
 
-### [Solver](https://github.com/pawelswoboda/LPMP)
+### [Solver](https://github.com/LPMP/LPMP)
 
 ### Datasets
 
@@ -40,7 +40,7 @@ by Kainmueller et al, [corresponding publication](http://dx.doi.org/10.1007/978-
 # Multicut
 ![]({{ site.url }}{{ site.baseurl }}/pictures/multicut.svg){: align="right" width="200px" border="10px"}
 
-### [Solver](https://github.com/pawelswoboda/LPMP)
+### [Solver](https://github.com/LPP/LPMP)
 
 ### Datasets
 
