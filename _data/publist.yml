@@ -2,7 +2,7 @@
   image: triangle-criterion.png
   description: "In combinatorial optimization, partial variable assignments are called persistent if they agree with some optimal solution. We propose persistency criteria for the multicut and max-cut problem as well as fast combinatorial routines to verify them. The criteria that we derive are based on mappings that improve feasible multicuts, respectively cuts. Our elementary criteria can be checked enumeratively. The
 more advanced ones rely on fast algorithms for upper and lower bounds for the respective cut problems and max-flow techniques for auxiliary min-cut problems. Our methods can be used as a preprocessing technique for reducing problem sizes or for computing partial optimality guarantees for solutions output by heuristic solvers. We show the efficacy of our methods on instances of both problems from computer vision, biomedical image analysis and statistical physics."
-  authors: Jan-Hendrik Lange, Bj\"orn Andres, Paul Swoboda
+  authors: Jan-Hendrik Lange, Björn Andres, Paul Swoboda
   link:
       url: http://openaccess.thecvf.com/content_CVPR_2019/html/Lange_Combinatorial_Persistency_Criteria_for_Multicut_and_Max-Cut_CVPR_2019_paper.html
     display:  CVPR 2019
@@ -12,7 +12,7 @@ more advanced ones rely on fast algorithms for upper and lower bounds for the re
 - title: "A convex relaxation for multi-graph matching"
   image: cycle-consistency_mgm.png
   description: "We present a convex relaxation for the multi-graph matching problem. Our formulation allows for partial pairwise matchings, guarantees cycle consistency, and our objective incorporates both linear and quadratic costs. Moreover, we also present an extension to higher-order costs. In order to solve the convex relaxation we employ a message passing algorithm that optimizes the dual problem. We experimentally compare our algorithm on established benchmark problems from computer vision, as well as on large problems from biological image analysis, the size of which exceed previously investigated multi-graph matching instances."
-  authors: Paul Swoboda, Dagmar Kainm\"uller, Ashkan Mokarian, Christian Theobalt, Florian Bernard
+  authors: Paul Swoboda, Dagmar Kainmüller, Ashkan Mokarian, Christian Theobalt, Florian Bernard
   link:
       url: http://openaccess.thecvf.com/content_CVPR_2019/html/Swoboda_A_Convex_Relaxation_for_Multi-Graph_Matching_CVPR_2019_paper.html
     display:  CVPR 2019
