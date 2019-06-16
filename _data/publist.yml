@@ -2,7 +2,7 @@
   image: triangle-criterion.png
   description: "In combinatorial optimization, partial variable assignments are called persistent if they agree with some optimal solution. We propose persistency criteria for the multicut and max-cut problem as well as fast combinatorial routines to verify them. The criteria that we derive are based on mappings that improve feasible multicuts, respectively cuts. Our elementary criteria can be checked enumeratively. The
 more advanced ones rely on fast algorithms for upper and lower bounds for the respective cut problems and max-flow techniques for auxiliary min-cut problems. Our methods can be used as a preprocessing technique for reducing problem sizes or for computing partial optimality guarantees for solutions output by heuristic solvers. We show the efficacy of our methods on instances of both problems from computer vision, biomedical image analysis and statistical physics."
-  authors: Jan-Hendrik Lange, Björn Andres, Paul Swoboda
+  authors: Jan-Hendrik Lange, Bjoern Andres, Paul Swoboda
   link:
       url: http://openaccess.thecvf.com/content_CVPR_2019/html/Lange_Combinatorial_Persistency_Criteria_for_Multicut_and_Max-Cut_CVPR_2019_paper.html
     display:  CVPR 2019
