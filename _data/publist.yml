@@ -1,3 +1,13 @@
+- title: "A Primal-Dual Solver for Large-Scale Tracking-by-Assignment"
+  image: cell_tracking.png
+  description: "We propose a fast approximate solver for the combinatorial problem known as tracking-byassignment, which we apply to cell tracking. The latter plays a key role in discovery in many life sciences, especially in cell and developmental biology. So far, in the most general setting this problem was addressed by off-theshelf solvers like Gurobi, whose run time and memory requirements rapidly grow with the size of the input. In contrast, for our method this growth is nearly linear. Our contribution consists of a new (1) decomposable compact representation of the problem;(2) dual block-coordinate ascent method for optimizing the decompositionbased dual; and (3) primal heuristics that reconstructs a feasible integer solution based on the dual information. Compared to solving the problem with Gurobi, we observe an up to 60 times speed-up, while reducing the memory footprint significantly. We demonstrate the efficacy of our method on real-world tracking problems."
+  authors: Stefan Haller, Mangal Prakash, Lisa Hutschenreiter, Tobias Pietzsch, Carsten Rother, Florian Jug, Paul Swoboda, Bogdan Savchynskyy
+  link:
+    url: https://hci.iwr.uni-heidelberg.de/vislearn/HTML/people/stefan_haller/pdf/A%20Primal-Dual%20Solver%20for%20Large-Scale%20Tracking-by-Assignment%20-%20AISTATS2020.pdf
+    display: "AISTATS 2020"
+  highlight: 1
+  news2:
+
 - title: "Bottleneck potentials in Markov Random Fields"
   image: min_max_eq.gif
   description: "We consider general discrete Markov Random Fields (MRFs) with additional bottleneck potentials which penalize the maximum (instead of the sum) over local potential value taken by the MRF-assignment. Bottleneck potentials or analogous constructions have been considered in (i) combinatorial optimization (e.g. bottleneck shortest path problem, the minimum bottleneck spanning tree problem, bottleneck function minimization in greedoids), (ii) inverse problems with infinity-norm regularization and (iii) valued constraint satisfaction on the (min,max)-pre-semirings. Bottleneck potentials for general discrete MRFs are a natural generalization of the above direction of modeling work to Maximum-A-Posteriori (MAP) inference in MRFs. To this end we propose MRFs whose objective consists of two parts: terms that factorize according to (i) (min,+), i.e. potentials as in plain MRFs, and (ii) (min,max), i.e. bottleneck potentials. To solve the ensuing inference problem, we propose high-quality relaxations and efficient algorithms for solving them. We empirically show efficacy of our approach on large scale seismic horizon tracking problems."
