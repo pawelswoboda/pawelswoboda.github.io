@@ -1,3 +1,13 @@
+- title: "Lifted Disjoint Paths with Application in Multiple Object Tracking"
+  image: MOT_illustration.png
+  description: "We present an extension to the disjoint paths problem in which additional lifted edges are introduced to provide path connectivity priors. We call the resulting optimization problem the lifted disjoint paths problem. We show that this problem is NP-hard by reduction from integer multicommodity flow and 3-SAT. To enable practical global optimization, we propose several classes of linear inequalities that produce a high-quality LP-relaxation. Additionally, we propose efficient cutting plane algorithms for separating the proposed linear inequalities. The lifted disjoint path problem is a natural model for multiple object tracking and allows an elegant mathematical formulation for long range temporal interactions. Lifted edges help to prevent id switches and to re-identify persons. Our lifted disjoint paths tracker achieves nearly optimal assignments with respect to input detections. As a consequence, it leads on all three main benchmarks of the MOT challenge, improving significantly over state-of-the-art."
+  authors: Andrea Hornakova, Roberto Henschel, Bodo Rosenhahn, Paul Swoboda
+  link:
+      url: https://arxiv.org/abs/2006.14550
+    display: "ICML 2020"
+  highlight: 1
+  news2: 
+
 - title: "A Primal-Dual Solver for Large-Scale Tracking-by-Assignment"
   image: cell_tracking.png
   description: "We propose a fast approximate solver for the combinatorial problem known as tracking-byassignment, which we apply to cell tracking. The latter plays a key role in discovery in many life sciences, especially in cell and developmental biology. So far, in the most general setting this problem was addressed by off-theshelf solvers like Gurobi, whose run time and memory requirements rapidly grow with the size of the input. In contrast, for our method this growth is nearly linear. Our contribution consists of a new (1) decomposable compact representation of the problem;(2) dual block-coordinate ascent method for optimizing the decompositionbased dual; and (3) primal heuristics that reconstructs a feasible integer solution based on the dual information. Compared to solving the problem with Gurobi, we observe an up to 60 times speed-up, while reducing the memory footprint significantly. We demonstrate the efficacy of our method on real-world tracking problems."
