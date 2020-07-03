@@ -1,12 +1,15 @@
+- date: 03. July 2020
+  headline: "Paper accepted at ECCV 2020: Deep Graph Matching via Blackbox Differentiation of Combinatorial Solvers."
+
 - date: 03. June 2020
   headline: "Paper accepted at ICML 2020: Lifted Disjoint Paths with Application in Multiple Object Tracking."
 
 - date: 06. Januar 2020
   headline: "Paper accepted at AISTATS 2020: A Primal-Dual Solver for Large-Scale Tracking-by-Assignment."
   
-- date: 23. June 2019
-  headline: "Two papers accepted at ICCV 2019: Bottleneck potentials in Markov Random Fields (oral) and Higher-order Projected Power Iterations for Scalable Multi-Matching (poster)."
-
+#- date: 23. June 2019
+#  headline: "Two papers accepted at ICCV 2019: Bottleneck potentials in Markov Random Fields (oral) and Higher-order Projected Power Iterations for Scalable Multi-Matching (poster)."
+#
 #- date: 29. March 2019
 #  headline: "New  datasets for multi-graph matching available."
 #
